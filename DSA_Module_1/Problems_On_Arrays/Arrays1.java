@@ -32,7 +32,7 @@ public class Arrays1 {
                 prefix[i] += A.get(i);
             }
         }
-        ArrayList<Integer> result = new ArrayList<>()
+        ArrayList<Integer> result = new ArrayList<>();
         // Process each query
         for (int i = 0; i < B.size(); i++) {
             int left = B.get(i).get(0);

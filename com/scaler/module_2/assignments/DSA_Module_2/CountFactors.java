@@ -1,4 +1,4 @@
-package com.dsamodule2.Arrays;
+package com.scaler.module_2.assignments.com.scaler.module_2.assignments.DSA_Module_2;
 
 /* Problem Description
 Given an integer A, you need to find the count of it's factors.
